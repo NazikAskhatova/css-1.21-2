@@ -5,7 +5,7 @@ h1 {
 
 p {
 color: rgb(139, 0, 104);
-background-color: rgb(55, 0, 100);
+background-color: rgba(0, 100, 87, 0.719);
 }
 
 h2 {
@@ -75,7 +75,7 @@ text-align: center;
 }
 
 .bg-blue {
-background-color: royalblue;
+background-color: rgb(65, 225, 212);
 }
 
 .p1 {
