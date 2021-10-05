@@ -97,3 +97,7 @@ p.normal {
 p.italic {
     font-style: italic;
 }
+
+p.oblique {
+    font-style: oblique;
+}
