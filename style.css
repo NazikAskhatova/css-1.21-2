@@ -93,3 +93,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 p.normal {
     font-style: normal;
 }
+
+p.italic {
+    font-style: italic;
+}
