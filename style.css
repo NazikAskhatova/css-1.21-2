@@ -52,3 +52,13 @@ background-color: linen;
     color: sienna;
     background-color: snow;
 }
+
+.text-green {
+    background-color: springgreen;
+    color: tan;
+}
+
+.text-pink {
+background-color: violet;
+color: pink;
+}
