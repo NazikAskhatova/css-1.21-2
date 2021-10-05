@@ -15,10 +15,40 @@ background-color: firebrick;
 
 blockquote {
 color: gold;
-background-color: hotpink;
+background-color: rgb(105, 133, 255);
 }
 
 header {
 color: indigo;
 background-color: lightblue;
+}
+
+footer {
+color: lightsalmon;
+background-color: linen;
+}
+
+#exam-4 {
+    color: magenta;
+    background-color: mediumaquamarine;
+}
+
+#exam-5 {
+    color: mediumvioletred;
+    background-color: orangered;
+}
+
+#hello {
+    color: paleturquoise;
+    background-color: purple;
+}
+
+#hey {
+    color: rosybrown;
+    background-color: salmon;
+}
+
+#lol {
+    color: sienna;
+    background-color: snow;
 }
