@@ -101,3 +101,15 @@ p.italic {
 p.oblique {
     font-style: oblique;
 }
+
+.h1 {
+    font-size: 50px;
+}
+
+.h2 {
+    font-size: 30px;
+}
+
+.p6 {
+    font-size: medium;
+}
