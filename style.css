@@ -54,11 +54,26 @@ background-color: linen;
 }
 
 .text-green {
-    background-color: springgreen;
-    color: tan;
+    color: rgb(140, 210, 144);
 }
 
 .text-pink {
 background-color: violet;
 color: pink;
+}
+
+.text-big {
+    font-size: 30px;  
+}
+
+.text-center {
+text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.bg-blue {
+background-color: royalblue;
 }
