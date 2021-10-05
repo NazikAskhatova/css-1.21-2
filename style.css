@@ -89,3 +89,7 @@ font-family: 'Times New Roman', Times, serif;
 .p3 {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+p.normal {
+    font-style: normal;
+}
